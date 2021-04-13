@@ -10,6 +10,7 @@ class Combiner_Tests(unittest.TestCase):
 
     def tearDown(self):
         self.csv = ''
+        self.path =''
         print("tearDown called..")
 
     def test_csv(self):
