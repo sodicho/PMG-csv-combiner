@@ -1,5 +1,5 @@
 import unittest
-from sodicho_csv_combiner import get_name
+from csv-combiner import get_name
 
 class Combiner_Tests(unittest.TestCase):
     
